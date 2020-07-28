@@ -11,7 +11,6 @@ from discord import guild, member, user
 import os
 import json
 from Dtime import Uptime
-import keep_olive
 
 async def bt(games):
     await bot.wait_until_ready()
@@ -44,7 +43,7 @@ for filename in os.listdir("cogs"):
     if filename.endswith(".py"):
         bot.load_extension(f"cogs.{filename[:-3]}")
 
-keep_olive.keep_alive()
+
 token = os.environ.get("TOKEN")
 bot.remove_command("help")
 bot.run(token)
