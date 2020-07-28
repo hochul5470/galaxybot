@@ -1,6 +1,6 @@
 # 안내
-현제 깃 허브 봇은 http://repl.it 및 http://uptimerobot.com 전용 입니다!
-일반 버전은 곧 업로드 될 예정입니다!
+현제 버전은 Repl.it에서 사용 불가한 버전입니다! heroku나 일반 컴퓨터에서 사용가능한 버전입니다!
+> [Repl.it 버전 보러가기!](https://github.com/hochul5470/galaxybot_Repl.it_ver)
 # Galaxy Bot 정보
   기획: 호철Hochul
  
