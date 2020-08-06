@@ -1,7 +1,9 @@
 # 안내
 현제 버전은 Repl.it에서 사용 불가한 버전입니다! heroku나 일반 컴퓨터에서 사용가능한 버전입니다!
-> [Repl.it 버전 보러가기!](https://github.com/hochul5470/galaxybot_Repl.it_ver)
+
 현제 버전은 v3이고 버전 업은 잘 안합니다.
+> [Repl.it 버전 보러가기!](https://github.com/hochul5470/galaxybot_Repl.it_ver)
+
 # Galaxy Bot 정보
   기획: 호철Hochul
  
