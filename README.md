@@ -9,7 +9,7 @@
  
  제작: Team. KDB
  
- 깃북: http://team-kdb.na.to
+
  
  디스코드: https://discord.gg/tCKxyEZ
  
