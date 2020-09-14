@@ -19,7 +19,7 @@ class Play(commands.Cog):
             await asyncio.sleep(60)
 
             if counter == int(mins):
-                await ctx.send(f"{ctx.author.mention} 타이머 {mins}가 끝났습니다!")
+                await ctx.send(f"{ctx.author.mention} 타이머 {mins}분이 끝났습니다!")
                 break
 
 def setup(bot):
